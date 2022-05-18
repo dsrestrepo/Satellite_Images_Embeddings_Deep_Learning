@@ -1,0 +1,12 @@
+*.DS_Store
+*.ipynb_checkpoints/
+*.swp
+
+
+# Datasets as zip files
+/Pre-trained Models/*
+/Merged_Folder/*
+*/50001/*
+*/54001/*
+*/73001/*
+*/76001/*
